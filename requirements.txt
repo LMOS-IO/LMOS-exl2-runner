@@ -1,3 +1,4 @@
 fastapi
 uvicorn
 pyzmq
+lmos_openai_types @ git+https://github.com/LMOS-IO/LMOS-openai-types@pydantic-gen
